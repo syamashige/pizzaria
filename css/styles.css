@@ -7,6 +7,7 @@ body {
     font-family: 'pompiere', cursive;
     color: white;
     /* cursor: url('assets/pizzaMan-cursor.png'), auto; */
+    /* font-size: 25px; */
 }
 
 body:hover {
@@ -105,6 +106,9 @@ p {
 
 .pizzaName {
     font-size: 30px;
+    /* border-left: 1px solid white;
+    border-right: 1px solid white; */
+    
 }
 
 #today {
@@ -117,10 +121,36 @@ p {
     border-bottom: 1px solid white;
 }
 
+.price {
+    font-weight: bold;
+}
+
+#visit {
+    font-size: 25px;
+}
+
+#map > a {
+    color: white;
+    text-decoration: none;
+}
+
 .hours {
     display: inline;
     padding: 20px;
 }
+
+footer {
+    text-align: center;
+}
+
+#credit {
+    font-size: 18px;
+}
+
+#copyright {
+    font-size: 18px;
+}
+
 
 /* section {
     background-image: 
