@@ -75,14 +75,19 @@ h3 {
 
 nav {
     font-family: 'fredericka the great', cursive;
-    font-size: 40px;
+    font-size: 25px;
+    background-color: #404040;
+    text-align: right;
+    /* position: absolute;
+    top: 85%; */
+
 }
 
 .guide > a {
     color: white;
-    border-right: 1px solid white;
+    /* border-right: 1px solid white;
     padding-left: 80px;
-    padding-right: 80px;
+    padding-right: 80px; */
     text-decoration: none;
 }
 
